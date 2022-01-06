@@ -1,0 +1,5 @@
+#pragma once
+
+#define TRACE_CHANNEL_BUILDING_SNAP ECC_GameTraceChannel10
+#define TRACE_CHANNEL_SOLID_MATTER ECC_GameTraceChannel1
+#define GROUND_TRACE_CHANNEL ECC_GameTraceChannel6
